@@ -1,2 +1,2 @@
 # A-MySQL-Vademecum
-Some coding compendium about the SQL environment
+Some coding compendiums about the SQL environment
